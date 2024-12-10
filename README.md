@@ -1,17 +1,17 @@
-# Animated Website with Locomotive Scroll and Swiper.js
+# Animated Website with Locomotive Scroll and Swiper.js  ✨🌐
 
 This project is a modern, visually appealing, and responsive web design. It incorporates animations, interactive elements, and custom styles to create an engaging user experience. The site features **Locomotive Scroll** for smooth scrolling, **Swiper.js** for sliders, and custom animations crafted with pure CSS and JavaScript.
 
 ---
 
-## Features
+## Features 🌟
 
-- **Smooth Scrolling**: Implemented using Locomotive Scroll for fluid navigation.
-- **Responsive Design**: Fully optimized for both desktop and mobile devices.
-- **Swiper.js Integration**: Customizable sliders for showcasing content.
-- **CSS Animations**: Unique animations for a dynamic user experience.
-- **Custom Font Integration**: Neue Haas Display fonts for a premium look.
-- **Preloader Animation**: Engaging loading screen before content renders.
+- **Smooth Scrolling**: Implemented using Locomotive Scroll for fluid navigation. 🌀
+- **Responsive Design**: Fully optimized for both desktop and mobile devices. 📱💻
+- **Swiper.js Integration**: Customizable sliders for showcasing content. 🎠
+- **CSS Animations**: Unique animations for a dynamic user experience.🎨
+- **Custom Font Integration**: Neue Haas Display fonts for a premium look. 🅰️
+- **Preloader Animation**: Engaging loading screen before content renders. ⏳
 
 ---
 
@@ -38,7 +38,7 @@ This project is a modern, visually appealing, and responsive web design. It inco
 
 ----
 
-How to Use
+How to Use 🧑‍💻
 
 Scrolling Effect: Scroll through the page to experience Locomotive Scroll's smooth effects.
 Interactive Elements: Hover over elements to reveal animations.
@@ -54,14 +54,15 @@ Animations: Adjust CSS keyframes and JavaScript event listeners for custom anima
 
 ---
 
-Demo
+Demo 🚀
 
 Live Demo:
-https://anuragthippani1.github.io/modern-web_page/
+https://anuragthippani1.github.io/modern-web_page/ 🌍
 
 ---
 
-Contributing
+Contributing 🤝
+
 
 Contributions are welcome! Please follow these steps:
 
